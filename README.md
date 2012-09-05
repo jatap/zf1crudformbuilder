@@ -1,6 +1,6 @@
 # Description
 
-**ZF1 Crud Form Builder** is a subsystem ported from a commercial project.
+**ZF1 Automatic CRUD Form Builder** is a full subsystem ported from a commercial project.
     
     
 # Branches  
