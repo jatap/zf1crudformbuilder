@@ -4,11 +4,11 @@
 
 ### Some screenshots
   
-- [Grid](master/img/pages.png)  
-- [Edit](master/img/pages-edit.png)  
-- [Associations](master/img/pages-edit-relations.png)  
-- [Composed](master/img/pages-composed.png)  
-- [Edit composed](master/img/pages-composed-edit.png)  
+- [Grid](img/pages.png)  
+- [Edit](img/pages-edit.png)  
+- [Associations](img/pages-edit-relations.png)  
+- [Composed](img/pages-composed.png)  
+- [Edit composed](img/pages-composed-edit.png)  
     
 # Branches  
        
